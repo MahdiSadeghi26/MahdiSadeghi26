@@ -35,4 +35,4 @@
 &nbsp; <a href="mailto:mahdisadeghi1381m@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [devSouvik](https://github.com/MahdiSadeghi26)
+⭐️ From [Mehdi Fyber](https://github.com/MahdiSadeghi26)
