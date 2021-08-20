@@ -20,7 +20,7 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiSadeghi26&show_icons=true&theme=dracula)](https://github.com/MahdiSadeghi26)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiSadeghi26&show_icons=true&theme=tokyonight)](https://github.com/MahdiSadeghi26)
 
 
 
