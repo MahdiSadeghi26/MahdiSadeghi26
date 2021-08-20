@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Mehdi Fyber. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Mehdi Sadeghi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -20,7 +20,9 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiSadeghi26)](https://github.com/MahdiSadeghi26)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiSadeghi26&show_icons=true&theme=radical)](https://github.com/MahdiSadeghi26)
+
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
