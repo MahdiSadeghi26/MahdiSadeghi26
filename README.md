@@ -20,7 +20,7 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiSadeghi26&show_icons=true&theme=tokyonight)](https://github.com/MahdiSadeghi26)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSadeghi26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiSadeghi26&show_icons=true&theme=tokyonight)](https://github.com/MahdiSadeghi26)                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSadeghi26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
