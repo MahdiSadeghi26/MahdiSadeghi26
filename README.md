@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Software Engineering.
 - 💼 &nbsp; Looking for a job in FrontEnd Section.
 - 🌱 &nbsp; I'm Curious about UI/UX Design  .
--  &nbsp; .Playing Games and watching movies to chill .
+- 😎 &nbsp; Playing Games and watching movies to chill .
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
