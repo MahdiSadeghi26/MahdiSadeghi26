@@ -20,6 +20,7 @@
 
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiSadeghi26)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
