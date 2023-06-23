@@ -13,10 +13,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS | JS 
+- 💻 &nbsp; HTML | CSS | JS | Vue.js
 - 🌐 &nbsp; Web Designing / FrontEnd
 - 🔧 &nbsp; Visual Studio code | Visual Studio | Git
-- 🖥 &nbsp; Adobe Xd |  Photoshop 
+- 🖥 &nbsp; Figma | Adobe XD  
 
 <br>
 
