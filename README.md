@@ -15,7 +15,7 @@
 
 - 💻 &nbsp; HTML | CSS | JS | Vue.js
 - 🌐 &nbsp; Web Designing / FrontEnd
-- 🔧 &nbsp; Visual Studio code | Visual Studio | Git
+- 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Figma | Adobe XD  
 
 <br>
